@@ -11,3 +11,11 @@ Minha trajetória profissional começou na **gestão de obras e supervisão de e
 **Disponibilidade:** oportunidades presenciais, híbridas ou remotas.
 
 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-guimar%C3%A3es-161653183/)
+
+## Projetos
+
+### [NexAcc — Painel de Operações](https://github.com/hause-g/nexacc)
+
+Projeto pessoal de estudo, com interface web, API em Python e banco SQLite. A edição de portfólio usa dados sintéticos e integrações de demonstração isoladas.
+
+Minha participação inclui a definição do visual e das funcionalidades e a condução de correções, com apoio de inteligência artificial no desenvolvimento.
